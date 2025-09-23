@@ -33,7 +33,7 @@ Bez odovzdania projektu v 1. fáze, ktorá je cvičiacim akceptovaná a spĺňa 
 
 ## Priebežný test
 
-Počas semestra bude priebežný test na cvičení. Za test je možné získať maximálne 9 bodov, pričom je nutné získať aspoň 3 body (bez potrebných 3 bodov študent nepokračuje ďalej v kurze). Predpokladaný termín: 7. týždeň semestra (môže sa termín operatívne zmeniť).
+Počas semestra bude priebežný test na cvičení. Za test je možné získať maximálne 9 bodov, pričom je nutné získať aspoň 4 body (bez potrebných 4 bodov študent nepokračuje ďalej v kurze). Predpokladaný termín: 7. týždeň semestra (môže sa termín operatívne zmeniť).
 
 ## Podmienky pripustenia ku skúške
 
