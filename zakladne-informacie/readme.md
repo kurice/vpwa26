@@ -11,10 +11,10 @@
 **Vyučujúci:** Ing. Eduard Kuric, PhD.  
 **Cvičenia**
 
-- streda, 8:00-9:40, 1.30a, Ing. Matúš Krajčovič
-- streda, 10:00-11:40, 1.30a, Ing. Matúš Krajčovič
-- štvrtok, 8:00-9:40, 1.30a, Ing. Eduard Kuric, PhD.
-- štvrtok, 10:00-11:40, 1.30a, Ing. Eduard Kuric, PhD.
+- streda, 8:00-9:40, 1.30a, Ing. Eduard Kuric, PhD.
+- streda, 10:00-11:40, 1.30a, Ing. Eduard Kuric, PhD.
+- štvrtok, 8:00-9:40, 1.30a, Ing. Matúš Krajčovič
+- štvrtok, 10:00-11:40, 1.30a, Ing. Matúš Krajčovič
 
 ## Harmonogram
 
