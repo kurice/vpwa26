@@ -27,7 +27,7 @@ Projekt je hodnotený max. 47 bodmi a vypracováva sa priebežne počas semestra
 
 Bez odovzdania projektu v 1. fáze, ktorá je cvičiacim akceptovaná a spĺňa minimálnu úroveň kvality, nie je možné odovzdať projekt v 2. (finálnej) fáze, a teda nebude možné získať príslušné body.
 
-**V 910. týždni je naplánovaná kontrolná fáza napredovania.** Tím by už mal mať implementované požadované prípady použitia. Fáza je hodnotená 5 bodmi, a to binárne. Tím letmo predvedie cvičiacemu funkčnosť aplikácie s ohľadom na požadované prípady použitia. Ak aplikácia umožňuje realizovať prvých 8 (z 11) prípadov použitia, každý člen tímu získa 5 bodov. Cvičiaci nebude v tejto fáze podrobne hodnotiť kvalitu kódu a robustnosť riešenia. **Riešenie sa v tejto fáze neodovzdáva**.
+**V 10. týždni je naplánovaná kontrolná fáza napredovania.** Tím by už mal mať implementované požadované prípady použitia. Fáza je hodnotená 5 bodmi, a to binárne. Tím letmo predvedie cvičiacemu funkčnosť aplikácie s ohľadom na požadované prípady použitia. Ak aplikácia umožňuje realizovať prvých 8 (z 11) prípadov použitia, každý člen tímu získa 5 bodov. Cvičiaci nebude v tejto fáze podrobne hodnotiť kvalitu kódu a robustnosť riešenia. **Riešenie sa v tejto fáze neodovzdáva**.
 
 [Podrobné informácie o projekte a harmonograme jednotlivých kontrolných termínov.](../semestralny-projekt)
 
